@@ -2,7 +2,7 @@
 
 @tag
 Feature: Purchase the order from Ecommerce Website
-  I want to use this template for my feature file
+  I want to use this template for my feature file as my file
   
   Background:
    Given I landed on Ecommerce page
